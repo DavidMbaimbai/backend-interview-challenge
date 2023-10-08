@@ -1,0 +1,1 @@
+{"nodes":[{"id":"1","name":"startNode","type":"START"},{"id":"2","name":"humanTaskNode1","type":"HUMAN_TASK"},{"id":"3","name":"humanTaskNode2","type":"HUMAN_TASK"},{"id":"4","name":"endNode","type":"END"}],"edges":[{"from":"startNode","to":"humanTaskNode1"},{"from":"humanTaskNode1","to":"humanTaskNode2"},{"from":"humanTaskNode2","to":"endNode"}]}

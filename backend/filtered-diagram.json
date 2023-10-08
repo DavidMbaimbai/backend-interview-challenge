@@ -1,0 +1,16 @@
+{
+  "nodes": [
+
+    {
+      "id": "2",
+      "name": "humanTaskNode1",
+      "type": "HUMAN_TASK"
+    },
+    {
+      "id": "3",
+      "name": "humanTaskNode2",
+      "type": "HUMAN_TASK"
+    }
+  ],
+  "edges": []
+}
